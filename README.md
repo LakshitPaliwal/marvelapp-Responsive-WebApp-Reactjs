@@ -2,7 +2,8 @@
 #### Question 3 : Create a responsive web page absolutely similar to this design. The page should look pixel perfect as the designs mentioned. The page should be responsive. This question  is through Marvelapp.com
 
 
- 
+ OUTPUT:-
+ ![VID-20201212-WA0001](https://user-images.githubusercontent.com/39520168/106455050-ae3aa500-64b1-11eb-8f1e-a35db974d4a7.gif)
 
 ### `npm start`
 
